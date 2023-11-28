@@ -14,3 +14,7 @@ pre-processing Standford congress data( word counting, data exploration, stop wo
 Intro_Congress_API.ipynb:</p>
 
 Basic implementation and data extraction attempts to congress API</p>
+
+testing_environ.ipynb:
+
+Main aim states in the beginning of the notebook.
